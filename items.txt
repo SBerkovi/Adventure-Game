@@ -1,0 +1,24 @@
+sword
+gun
+shield
+dog
+apple
+cat
+chicken
+potion
+baseball bat
+necklace
+wizard hat
+goblet
+rock
+hammer
+armor
+traveler
+scythe
+hamburger
+chocolate bar
+map
+water bottle
+shovel
+soda can
+pair of glasses
